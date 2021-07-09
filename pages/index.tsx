@@ -4,6 +4,7 @@ import { Hero } from "../components/Hero";
 import { Showcase } from "../components/Showcase";
 import { Contact } from "../components/Contact";
 import { Footer } from "../components/Footer";
+import { Sell } from "../components/Sell";
 
 import { motion } from "framer-motion";
 
@@ -18,6 +19,7 @@ export default function Home() {
       </Head>
       <motion.div layout>
         <Layout>
+          <Sell />
           <Navbar />
           <Hero />
           <Showcase limit={true} />

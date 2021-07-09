@@ -74,14 +74,11 @@ function MyApp({ Component, pageProps }: AppProps) {
         {/* Google Analytics */}
         <script async src="https://www.googletagmanager.com/gtag/js?id=G-QSGRHTJ97T"></script>
         <script>
-          dangerouslySetInnerHTML={{
-            __html: `
-              window.dataLayer = window.dataLayer || [];
-              function gtag(){dataLayer.push(arguments);}
-              gtag('js', new Date());
-              gtag('config', 'G-QSGRHTJ97T', { page_path: window.location.pathname });
-            `,
-          }}
+          window.dataLayer = window.dataLayer || [];
+          function gtag(){dataLayer.push(arguments);}
+          gtag('js', new Date());
+
+          gtag('config', 'G-QSGRHTJ97T');
         </script>
       </Head>
       <AnimateSharedLayout>

@@ -6,20 +6,20 @@
     "artist",
     "personal website"
   ],
-  "homepage": "https://github.com/owner/project#readme",
+  "homepage": "https://github.com/SatvikVirmani/nextjs-artist-portfolio#readme",
   "bugs": {
-    "url": "https://github.com/owner/project/issues",
-    "email": "project@hostname.com"
+    "url": "https://github.com/SatvikVirmani/nextjs-artist-portfolio/issues",
+    "email": "virmanisatvik01@gmail.com"
   },
   "license": "MIT",
   "author": {
-    "name": "Barney Rubble",
-    "email": "b@rubble.com",
-    "url": "http://barnyrubble.tumblr.com/"
+    "name": "Satvik Virmani",
+    "email": "virmanisatvik01@gmail.com",
+    "url": "https://satvikvirmani.medium.com/"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/npm/cli.git"
+    "url": "https://github.com/SatvikVirmani/nextjs-artist-portfolio.git"
   },
   "version": "0.1.0",
   "private": true,

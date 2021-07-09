@@ -29,7 +29,7 @@
 ## Development
 
 ```sh
-git clone 
+git clone
 cd nextjs-artist-portfolio
 yarn install
 yarn dev
@@ -38,6 +38,7 @@ yarn dev
 ## Author
 
 ### Satvik Virmani
+
 <a href="https://twitter.com/satvikvirmani">
     <img src="https://img.shields.io/twitter/follow/SatvikVirmani?color=000000&logoColor=000000&style=for-the-badge">
 </a>

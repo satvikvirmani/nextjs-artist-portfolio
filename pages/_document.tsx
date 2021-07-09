@@ -15,8 +15,8 @@ class MyDocument extends Document {
             href="https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400&display=swap"
             rel="stylesheet"
           />
-          
-                    {/* Global Site Tag (gtag.js) - Google Analytics */}
+
+          {/* Global Site Tag (gtag.js) - Google Analytics */}
           <script
             async
             src={`https://www.googletagmanager.com/gtag/js?id=G-QSGRHTJ97T`}

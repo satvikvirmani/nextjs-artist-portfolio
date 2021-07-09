@@ -70,16 +70,6 @@ function MyApp({ Component, pageProps }: AppProps) {
         {/* Non-Essential, But Required for Analytics */}
 
         <meta name="twitter:site" content="@satvikvirmani" />
-        
-        {/* Google Analytics */}
-        <script async src="https://www.googletagmanager.com/gtag/js?id=G-QSGRHTJ97T"></script>
-        <script>
-          window.dataLayer = window.dataLayer || [];
-          function gtag(){dataLayer.push(arguments);}
-          gtag('js', new Date());
-
-          gtag('config', 'G-QSGRHTJ97T');
-        </script>
       </Head>
       <AnimateSharedLayout>
         <Component {...pageProps} />

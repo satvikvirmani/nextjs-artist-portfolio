@@ -40,7 +40,7 @@ yarn dev
 ### Satvik Virmani
 
 <a href="https://twitter.com/satvikvirmani">
-    <img src="https://img.shields.io/twitter/follow/SatvikVirmani?color=000000&logoColor=000000&style=for-the-badge">
+    <img src="https://img.shields.io/twitter/follow/satvikvirmani?color=000000&logo=twitter&logoColor=FFFFFF&style=for-the-badge">
 </a>
 
 ## Contributions

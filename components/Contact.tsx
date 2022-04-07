@@ -20,7 +20,7 @@ export const Contact: React.SFC = () => {
           </div>
           <form
             className="grid grid-rows-6 gap-6"
-            action="https://formsubmit.co/virmanisatvik01@gmail.com"
+            action="https://formsubmit.co/garimamalik28199@gmail.com"
             method="POST"
           >
             <input

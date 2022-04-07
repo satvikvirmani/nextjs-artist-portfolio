@@ -19,7 +19,6 @@ export default function Home() {
       </Head>
       <motion.div layout>
         <Layout>
-          <Sell />
           <Navbar />
           <Hero />
           <Showcase limit={true} />

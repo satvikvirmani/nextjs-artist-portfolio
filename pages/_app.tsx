@@ -17,8 +17,8 @@ function MyApp({ Component, pageProps }: AppProps) {
 
         <meta name="mobile-web-app-capable" content="yes" />
         <meta name="apple-mobile-web-app-capable" content="yes" />
-        <meta name="application-name" content="Artist Portfolio" />
-        <meta name="apple-mobile-web-app-title" content="Artist Portfolio" />
+        <meta name="application-name" content="Garima Malik" />
+        <meta name="apple-mobile-web-app-title" content="Garima Malik" />
         <meta name="msapplication-starturl" content="/" />
         <meta
           name="viewport"

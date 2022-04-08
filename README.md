@@ -11,7 +11,7 @@
 
 <p align="center">
     <img src="https://img.shields.io/github/license/SatvikVirmani/nextjs-artist-portfolio?color=000000&logoColor=000000&style=for-the-badge">
-    <img src="https://img.shields.io/website?color=000000&down_color=red&down_message=offline&logoColor=000000&style=for-the-badge&up_color=green&up_message=online&url=https%3A%2F%2Fartist-portfolio-nine.vercel.app%2F">
+    <img src="https://img.shields.io/website?color=000000&down_color=red&down_message=offline&logoColor=000000&style=for-the-badge&up_color=green&up_message=online&url=https%3A%2F%2Fgarimamalik.vercel.app%2F">
     <img src="https://img.shields.io/github/issues/SatvikVirmani/nextjs-artist-portfolio?color=000000&logoColor=000000&style=for-the-badge">
     <img src="https://img.shields.io/github/package-json/v/SatvikVirmani/nextjs-artist-portfolio?color=000000&logoColor=000000&style=for-the-badge">
     <img src="https://img.shields.io/github/package-json/dependency-version/SatvikVirmani/nextjs-artist-portfolio/next?color=000000&logoColor=000000&style=for-the-badge">

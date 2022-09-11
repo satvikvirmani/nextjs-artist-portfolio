@@ -3,6 +3,8 @@
     <h1 align="center">Artist Portfolio</h1>
 </p>
 
+> ### A artist portfolio website to showcase your projects.
+
 <p align="center">
     <a href="">
         <img src="https://img.shields.io/badge/Made%20by%20Satvik%20Virmani-000000?style=for-the-badge">
@@ -10,12 +12,11 @@
 </p>
 
 <p align="center">
-    <img src="https://img.shields.io/github/license/SatvikVirmani/nextjs-artist-portfolio?color=000000&logoColor=000000&style=for-the-badge">
-    <img src="https://img.shields.io/website?color=000000&down_color=red&down_message=offline&logoColor=000000&style=for-the-badge&up_color=green&up_message=online&url=https%3A%2F%2Fgarimamalik.vercel.app%2F">
-    <img src="https://img.shields.io/github/issues/SatvikVirmani/nextjs-artist-portfolio?color=000000&logoColor=000000&style=for-the-badge">
-    <img src="https://img.shields.io/github/package-json/v/SatvikVirmani/nextjs-artist-portfolio?color=000000&logoColor=000000&style=for-the-badge">
-    <img src="https://img.shields.io/github/package-json/dependency-version/SatvikVirmani/nextjs-artist-portfolio/next?color=000000&logoColor=000000&style=for-the-badge">
-    <img src="https://img.shields.io/github/last-commit/SatvikVirmani/nextjs-artist-portfolio?color=000000&logoColor=000000&style=for-the-badge">
+    <img src="https://img.shields.io/github/license/satvikvirmani/nextjs-artist-portfolio?color=000000&logoColor=000000&style=for-the-badge">
+    <img src="https://img.shields.io/github/issues/satvikvirmani/nextjs-artist-portfolio?color=000000&logoColor=000000&style=for-the-badge">
+    <img src="https://img.shields.io/github/last-commit/satvikvirmani/nextjs-artist-portfolio?color=000000&logoColor=000000&style=for-the-badge">
+    <img src="https://img.shields.io/github/package-json/v/satvikvirmani/nextjs-artist-portfolio?color=000000&logoColor=000000&style=for-the-badge">
+    <img src="https://img.shields.io/website?color=000000&down_color=red&down_message=offline&style=for-the-badge&up_color=green&up_message=online&url=https%3A%2F%2Fnextjs-artist-portfolio.vercel.app%2F">
 </p>
 
 ## Features
@@ -35,6 +36,13 @@ yarn install
 yarn dev
 ```
 
+## Dependencies
+   <img src="https://img.shields.io/github/package-json/dependency-version/satvikvirmani/nextjs-artist-portfolio/react?color=000000&style=for-the-badge">
+   <img src="https://img.shields.io/github/package-json/dependency-version/satvikvirmani/nextjs-artist-portfolio/next?color=000000&style=for-the-badge">
+   <img src="https://img.shields.io/github/package-json/dependency-version/satvikvirmani/nextjs-artist-portfolio/firebase?color=000000&style=for-the-badge">
+   <img src="https://img.shields.io/github/package-json/dependency-version/satvikvirmani/nextjs-artist-portfolio/framer-motion?color=000000&style=for-the-badge">
+   <img src="https://img.shields.io/github/package-json/dependency-version/satvikvirmani/nextjs-artist-portfolio/swiper?color=000000&style=for-the-badge">
+
 ## Author
 
 ### Satvik Virmani
@@ -46,7 +54,7 @@ yarn dev
 ## Contributions
 
 Contributions, issues and feature requests are welcome!
-Feel free to check [issues](https://github.com/SatvikVirmani/nextjs-artist-portfolio/issues) page.
+Feel free to check [issues](https://github.com/satvikvirmani/nextjs-artist-portfolio/issues) page.
 
 ## Show your support
 

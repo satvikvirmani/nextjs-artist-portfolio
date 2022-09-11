@@ -1,5 +1,5 @@
 <p align="center">
-    <img alt="Logo" src="https://res.cloudinary.com/wecloud/image/upload/v1625824669/artist-portfolio/logo_vwjy7m.svg" height="120">
+    <img alt="Logo" src="https://res.cloudinary.com/wecloud/image/upload/v1662881132/artist-portfolio/logo_png_gacjtg.png" height="120">
     <h1 align="center">Artist Portfolio</h1>
 </p>
 
